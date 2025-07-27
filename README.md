@@ -1,2 +1,3 @@
 # Temperory-activities
-This is my first  Git Repository 
+This is my first  Git Repositoy.
+Author - Mohit Dive
